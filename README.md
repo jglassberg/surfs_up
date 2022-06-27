@@ -18,4 +18,5 @@ W. Avy likes your analysis, but he wants more information about temperature tren
   3. The minimum percipitation hovered around 64.00.
   4. The maximum percipitation hovered around 85.00.
 
+3. Summary:
 We were looking to compare the difference in weather between June and December. Considering these fall within different seasons, we were expecting different levels of percipitation. the average percipitation was greater in june than December and incurred a lower standard deviation than December. This concludes that the rainy season overlaps with June's season. 
